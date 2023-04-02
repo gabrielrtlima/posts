@@ -2,6 +2,8 @@
 title: "Processo Seletivo"
 date: "2023-01-01"
 slug: "intuitive-care"
+tag: ["intuitive-care", "processo-seletivo"]
+category: ["Seleção"]
 ---
 
 ## __Teste 1 - WebScraping__
